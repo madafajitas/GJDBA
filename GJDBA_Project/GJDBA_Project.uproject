@@ -19,5 +19,8 @@
 			"Name": "GPULightmass",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
