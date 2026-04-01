@@ -310,3 +310,11 @@ RELEASE_MSG
 /.ignore
 
 Build/*
+
+# Unreal Build
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
